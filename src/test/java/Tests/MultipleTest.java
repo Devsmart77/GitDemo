@@ -43,6 +43,7 @@ public class MultipleTest extends Base {
 		Assert.assertTrue(lp.contact().isDisplayed());
 		lp.getLogin().click();
 		Log.debug("Clicked on Login link");
+		Log.debug("Clicked on Login link");
 		LoginPage lg = new LoginPage(driver);
 		Log.debug("Entering username");
 		lg.getEmail().sendKeys(un);
