@@ -1,0 +1,5 @@
+23:46:29.845 [main] DEBUG Tests.MultipleTest - Navigate to Home Page
+23:46:29.996 [main] DEBUG Tests.MultipleTest - Checking Assertion
+23:46:29.997 [main] DEBUG Tests.MultipleTest - Checking Assertion for Contact link
+23:46:31.388 [main] DEBUG Tests.MultipleTest - Clicked on Login link
+23:46:31.389 [main] DEBUG Tests.MultipleTest - Entering username

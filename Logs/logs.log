@@ -1,0 +1,4 @@
+23:46:31.685 [main] DEBUG Tests.MultipleTest - Entering password
+23:46:33.414 [main] INFO  Tests.MultipleTest - Clicking on Login button
+23:46:34.178 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+23:46:35.806 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
