@@ -48,6 +48,7 @@ public class MultipleTest extends Base {
 		lg.getEmail().sendKeys(un);
 		Log.debug("Entering password");
 		lg.getPassword().sendKeys(pd);
+		Log.debug("printing the text");
 		System.out.println(txt);
 		Log.info("Clicking on Login button");
 		lg.loginBtn().click();
